@@ -16,4 +16,4 @@ Here is a photo of GUI:
 
 Here is a demo video of the program.
 
-![](Misc/Demo.mp4)
+![Demo](Misc/Demo.mp4)
