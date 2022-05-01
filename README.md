@@ -17,4 +17,4 @@ Here is a photo of GUI:
 
 Here is a demo video of the program.
 
-![Demo](https://user-images.githubusercontent.com/104424308/166159232-600d1a63-cad9-4c4f-b3f2-e36c9fed69f7.mp4)
+https://user-images.githubusercontent.com/104424308/166162200-bc3846c6-6422-4f0c-93b0-dbcedbb70777.mp4
