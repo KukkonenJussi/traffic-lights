@@ -10,5 +10,10 @@ There are links to the coding files.
 #### <ins>GUI</ins>
 
 Here is a photo of GUI:
-
 ![](Misc/Traffic_Light_GUI.PNG)
+
+#### <ins>Demo video</ins>
+
+Here is a demo video of the program.
+
+![](Misc/Demo.mp4)
